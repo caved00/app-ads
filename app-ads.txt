@@ -1,0 +1,5 @@
+# app-ads.txt
+# Patintero Game - Authorized Ad Networks
+# Publisher ID: 4303513332568864
+
+google.com, pub-4303513332568864, DIRECT, f08c47fec0942fa0
